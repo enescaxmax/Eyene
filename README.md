@@ -1,4 +1,4 @@
-### Hi I am Eyene! 👋
+### Hi I am Enes! 👋
 
 # 🌟About Me :
 🔭 I’m currently working on Enone.
