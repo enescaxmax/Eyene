@@ -1,14 +1,13 @@
 ### Hi I am Enes! 👋
 
 # 🌟About Me :
-🔭 I’m currently working on Enone.
-🌱 I’m currently learning more about BlockChain.
-👯 I’m looking to collaborate on Youtube.
-🤔 I’m looking for help with VelocityX documentation.
-💬 Ask me about Flutter or any tech-related stuff.
-📫 How to reach me: Twitter - @EinenDr
+🔭 I’m currently working on Salesforce MaxTechLab.
+🌱 I’m currently learning more about Salesforce.
+👯 I’m looking to collaborate on Salesforce.
+💬 Ask me about Salesforce or any tech-related stuff.
+📫 How to reach me: Linkedin-www.linkedin.com/in/enescaxmax
+
 😄 Pronouns: He/His
-⚡ Fun fact: I spend almost 12 hours looking around every day.
 
 ## 🌐Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@EinenDr) 
