@@ -1,13 +1,13 @@
 ### Hi I am Enes! 👋
 
 # 🌟About Me :
-🔭 I’m currently working on Salesforce MaxTechLab.
-🌱 I’m currently learning more about Salesforce.
-👯 I’m looking to collaborate on Salesforce.
+⚙️ I’m currently working on Salesforce MaxTechLab.
+☁️ I’m currently learning more about Salesforce.
+🧗‍♂️ I’m looking to collaborate on Salesforce.
 💬 Ask me about Salesforce or any tech-related stuff.
-📫 How to reach me: Linkedin-www.linkedin.com/in/enescaxmax
+🧧 How to reach me: Linkedin-www.linkedin.com/in/enescaxmax
 
-😄 Pronouns: He/His
+
 
 ## 🌐Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@EinenDr) 
