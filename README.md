@@ -1,18 +1,18 @@
-<h1 align="center">𝑯𝒊, 𝑰 𝒂𝒎 𝑬𝒏𝒆𝒔! 👋</h1>
+<h1 align="center">𝑯𝒊, 𝑰 𝒂𝒎 𝑬𝒏𝒆𝒔! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /></h1>
 <h3 align="center">2X Certified Salesforce Administrator & Developer | Apex | Flow | Trigger | CPQ | MuleSoft | SOQL | SOSL | DML | LWC | SDLC | Jira | Agile | GitHub | Html | CSS | JavaScript |</h3>
 
-
+<h2>🌟About Me : </h2>
 <p align=" ">
-🌟About Me : <br>
 ⚙️ I’m currently working on Salesforce 𝑴𝒂𝒙𝑻𝒆𝒄𝒉𝑳𝒂𝒃.
 ☁️ I’m currently learning more about Salesforce. <br>
 🧗‍♂️ I’m looking to collaborate on Salesforce.
-💬 Ask me about Salesforce or any tech-related stuff. <br>
-
-  
+💬 Ask me about Salesforce or any tech-related stuff. <br> 
 </p>
 
-<h3 align="center" >🧧 How to reach me: </h3>
+<h2>🧧 How to reach me:  </h2>
 <p align="center">
 <a href="https://trailblazer.me/id/ecakmak1" target="_blank"><img align="center" src="https://ui.trailhead.com/profile/v1.5.0/images/salesforce.svg" alt="enescakmak" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/enescaxmax/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enes-cakmak" height="30" width="40" /></a>
@@ -32,7 +32,7 @@
       ✔ CPQ, MuleSoft, Einstein Analytics
       ✔ Salesforce Mobile App
 <br>
-<h3 align="center">💻Tech Stack: </h3>
+<h2>💻Tech Stack: </h2>
 <p align="center">    
   
 <a href="https://www.salesforce.com/eu/" target="_blank" rel="noreferrer">
@@ -59,13 +59,23 @@
             
 
 </p>
- <br>         
-<h3 align="center">📊GitHub Stats : </h3>           
+ <br>
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enescaxmax&" alt="enescaxmax" /></p>
   
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enescaxmax&theme=vue"/>
+</p>
   
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=enescaxmax&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=enescaxmax&theme=vue" />
+</p>
   
+
+  
+[![](https://visitcount.itsvg.in/api?id=enescaxmax&icon=0&color=1)](https://visitcount.itsvg.in)  
   
 
   
